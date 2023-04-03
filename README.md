@@ -26,7 +26,7 @@ ______
 
 ## :information_source: Sobre
 
-O [Curso de React do Zero a Maestria](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/), que disponivel na plataforma de educação a distancia, a [Udemy](https://www.udemy.com/), ministrado pelo [Matheus Battisti](https://github.com/matheusbattisti), tem como objetivo ensinar desde os recursos mais básicos até o mais avançado da biblioteca mais famosa do universo front-end, o React.
+O [Curso de React do Zero a Maestria](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/), que disponivel na plataforma de educação a distância [Udemy](https://www.udemy.com/), ministrado pelo [Matheus Battisti](https://github.com/matheusbattisti), tem como objetivo ensinar desde os recursos mais básicos até o mais avançado da biblioteca mais famosa do universo front-end, o React.
 
 Alguns dos tópicos abordados durante o curso são:
 
