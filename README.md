@@ -1,2 +1,1 @@
-# React_do_Zero_a_Maestria
-Curse 'React do Zero a Maestria' from UDEMY
+<h2 align="center"> Curso React do Zero a Maestria !</h2>
