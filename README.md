@@ -68,7 +68,6 @@ ______
 
 ## :seedling: Requisitos Mínimos
 
-- Computador básico
 - Domínio dos fundamentos de JavaScript
 - Conhecimentos em HTML e CSS
 
